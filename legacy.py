@@ -1,2 +1,2 @@
-import this
 # pythonic box
+import storage
